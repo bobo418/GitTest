@@ -1,0 +1,12 @@
+{
+    "name": "bobo418/gittest",
+    "description": "bobo test composer packagist.org",
+    "type": "project",
+    "authors": [
+        {
+            "name": "wangbobo",
+            "email": "wangbobo@quansu.com"
+        }
+    ],
+    "require": {}
+}
